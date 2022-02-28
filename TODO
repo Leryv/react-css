@@ -1,0 +1,8 @@
+
+Todo:
+  ✔ Membuat Form dan TodoList.js @done(22-02-28 07:00)
+  ✔ Menambahkan Style di app.css dan import di Form Dan TodoList @done(22-02-28 07:00)
+  ✔ Membuat Form Input dan button di Form Commponent @done(22-02-28 07:05)
+  ☐ Membuat apapun yg ada di input masuk ke dalam State @started(22-02-28 07:05)
+  ☐ Membuat Table di TodoList.js
+
